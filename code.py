@@ -1,4 +1,6 @@
 print('hello world')
+<<<<<<< HEAD
 print("hello again')
 print("third line')
-print('fourth line')
+=======
+>>>>>>> parent of 5a8370a... second commit
